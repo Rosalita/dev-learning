@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "23cc4e81198424a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "03c03d261aa3cac0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Discrete Mathematics/Discrete Mathematics.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a7f09491eb0cae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8de6d27e74850e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ee2fce2763086a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "109183683aff9252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463
+  },
+  "right": {
+    "id": "fbf1fbcb250ec84e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7f62e01152bf407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78e5633628cce731",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Discrete Mathematics/Discrete Mathematics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Notes/Discrete Mathematics/Logical Connectives.md",
+    "Notes/MongoDB/MongoDB.md",
+    "Notes/Discrete Mathematics/Truth Conditions for Connectives.md",
+    "Notes/Docker/Docker.md",
+    "Progress.md",
+    "Goals.md",
+    "README.md",
+    "Tracking/Advent of Code 2020.md",
+    "Tracking/Daily Habit.md"
+  ]
+}
