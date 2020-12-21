@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Discrete Mathematics/Discrete Mathematics.md",
+            "file": "Progress.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Notes/Discrete Mathematics/Logical Connectives.md",
-    "Notes/MongoDB/MongoDB.md",
-    "Notes/Discrete Mathematics/Truth Conditions for Connectives.md",
-    "Notes/Docker/Docker.md",
     "Progress.md",
     "Goals.md",
-    "README.md",
-    "Tracking/Advent of Code 2020.md",
+    "Notes/MongoDB/MongoDB Shell.md",
+    "Notes/MongoDB/MongoDB.md",
+    "Notes/MongoDB/Collections.md",
+    "Notes/MongoDB/Creation.md",
+    "Notes/MongoDB/Installing MongoDB.md",
+    "Notes/MongoDB/MongoDB Compass.md",
+    "Notes/MongoDB/Documents.md",
     "Tracking/Daily Habit.md"
   ]
 }

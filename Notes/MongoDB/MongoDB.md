@@ -1,3 +1,5 @@
 # MongoDB
 
-First I need to deal with [[Installing MongoDB]]
+- Instructions for [[Installing MongoDB]]
+- Mongo uses [[Collections]] and [[Documents]]
+- Can interact directly with Mongo via the [[MongoDB Shell]]
