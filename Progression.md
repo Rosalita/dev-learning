@@ -1,10 +1,11 @@
-# Progress
+# Progression
 ## 2020
 ### December
 - Watched[[Decision-making for Grown-Ups]]
 - Watched[[Truth Tables and Logical Connectives]]
 - Watched [[Pushing Through Friction]]
 - Created a local [[MongoDB]]
+- Started learning about [[Discrete Mathematics]]
 
 ### November
 - Started keeping track of learning resources I am consuming.

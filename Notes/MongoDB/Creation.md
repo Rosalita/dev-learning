@@ -11,6 +11,9 @@ There isn't a `create` command in MongoDB Shell. To create a new database you us
 
 To add [[Documents]] to a database, use the `db.<collection>.insert` command. 
 
-> db.rosie.insert({date:"21/12/2020", task:"started learning mongo"})
-> WriteResult({ "nInserted" : 1 })
+` db.rosie.insert({date:"21/12/2020", task:"started learning mongo"})`
+
+which returns 
+
+`WriteResult({ "nInserted" : 1 })`
 
