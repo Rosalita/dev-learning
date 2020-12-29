@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Goals.md",
+            "file": "Progression.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals.md",
+                "file": "Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Goals.md",
-    "README.md",
     "Progression.md",
-    "Tracking/Advent of Code 2020.md",
+    "README.md",
+    "Goals.md",
     "Tracking/Daily Habit.md",
-    "Resources/Mathematics/Truth Tables and Logical Connectives.md",
-    "Notes/MongoDB/MongoDB Shell.md",
-    "Notes/MongoDB/BSON Objects.md",
-    "Notes/MongoDB/Creation.md",
-    "Notes/MongoDB/Documents.md"
+    "Resources/Coding/BDD is not about Testing.md",
+    "Resources/Coding/Decision-making for Grown-Ups.md",
+    "Resources/Coding/Go Contracts.md",
+    "Resources/Coding/Prototype Your Design.md",
+    "Resources/Coding/Pushing Through Friction.md",
+    "Notes/BDD/BDD.md"
   ]
 }
