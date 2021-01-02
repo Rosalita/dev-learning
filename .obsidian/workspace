@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Progression.md",
+            "file": "Notes/MongoDB/MongoDB.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progression.md",
+                "file": "Notes/MongoDB/MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Notes/MongoDB/MongoDB.md",
+    "Notes/MongoDB/Aggregation Pipeline.md",
+    "Notes/MongoDB/Aggregation.md",
+    "Notes/MongoDB/BSON Objects.md",
+    "Untitled.md",
+    "Notes/MongoDB/Untitled.md",
     "Progression.md",
     "README.md",
     "Goals.md",
-    "Tracking/Daily Habit.md",
-    "Resources/Coding/BDD is not about Testing.md",
-    "Resources/Coding/Decision-making for Grown-Ups.md",
-    "Resources/Coding/Go Contracts.md",
-    "Resources/Coding/Prototype Your Design.md",
-    "Resources/Coding/Pushing Through Friction.md",
-    "Notes/BDD/BDD.md"
+    "Tracking/Daily Habit.md"
   ]
 }

@@ -7,3 +7,4 @@
 - Mongo has its own [[Naming Conventions]]
 - Mongo uses [[BSON Objects]]
 - Mongo has its own GUI client called [[MongoDB Compass]]
+- Mongo can use [[Aggregation Pipeline]] to perform complex queries.
