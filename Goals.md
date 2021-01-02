@@ -8,5 +8,4 @@ Give Goals short codes so they can be tracked. Break large goals down into small
 - Learn as much as possible about [[MongoDB]] [Mdb]
 - Learn as much as possible about [[Docker]][Doc]
 - Learn as much as possible about BDD [BDD]
-- Do some exploratory API testing of code I wrote this year [Test]
 

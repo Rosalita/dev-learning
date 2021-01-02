@@ -8,3 +8,6 @@
 - Mongo uses [[BSON Objects]]
 - Mongo has its own GUI client called [[MongoDB Compass]]
 - Mongo can use [[Aggregation Pipeline]] to perform complex queries.
+
+
+Created a repo of example Go code to interact with Mongo on [GitHub](https://github.com/Rosalita/mongo-example)
