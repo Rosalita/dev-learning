@@ -1,7 +1,10 @@
 # Progression
+
+## 2021
+- Watched [[Beyond Developer]]
+
 ## 2020
 ### December
-
 - Watched[[BDD is not about Testing]]
 - Watched[[Decision-making for Grown-Ups]]
 - Watched[[Truth Tables and Logical Connectives]]
