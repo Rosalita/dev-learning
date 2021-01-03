@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Coding/Pushing Through Friction.md",
+            "file": "Resources/Coding/10 yrs of doing BDD wrong part 2.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Coding/Pushing Through Friction.md",
+                "file": "Resources/Coding/10 yrs of doing BDD wrong part 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resources/Coding/Pushing Through Friction.md",
-    "Resources/Coding/Psychology of Code Readability.md",
-    "Resources/Coding/Normalization of Deviance.md",
-    "Resources/Coding/BDD is not about Testing.md",
+    "Resources/Coding/10 yrs of doing BDD wrong part 2.md",
+    "Resources/Coding/10 yrs of doing BDD wrong part 1.md",
+    "Goals.md",
+    "Progression.md",
+    "README.md",
+    "Resources/Coding/10 yrs of doing BDD wrong pt 1.md",
+    "Resources/Coding/10 yrs of doing BDD wrong pt 1 1.md",
+    "Resources/Coding/Beyond Developer 1.md",
     "Resources/Coding/Beyond Developer.md",
-    "Resources/Coding/Decision-making for Grown-Ups.md",
-    "Resources/Coding/Go Contracts.md",
-    "Notes/MongoDB/Aggregation Pipeline Stages.md",
-    "Notes/MongoDB/Aggregation Pipeline.md",
-    "Resources/Coding/Prototype Your Design.md"
+    "Resources/Coding/Pushing Through Friction.md"
   ]
 }

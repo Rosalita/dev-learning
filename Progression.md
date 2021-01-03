@@ -1,7 +1,10 @@
 # Progression
 
 ## 2021
+### January
 - Watched [[Beyond Developer]]
+- Watched [[10 yrs of doing BDD wrong part 1]]
+- Watched [[10 yrs of doing BDD wrong part 2]]
 
 ## 2020
 ### December
