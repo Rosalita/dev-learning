@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Coding/10 yrs of doing BDD wrong part 2.md",
+            "file": "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463
+    "width": 334
   },
   "right": {
     "id": "fbf1fbcb250ec84e",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Coding/10 yrs of doing BDD wrong part 2.md",
+                "file": "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Resources/Coding/10 yrs of doing BDD wrong part 2.md",
-    "Resources/Coding/10 yrs of doing BDD wrong part 1.md",
-    "Goals.md",
-    "Progression.md",
-    "README.md",
-    "Resources/Coding/10 yrs of doing BDD wrong pt 1.md",
-    "Resources/Coding/10 yrs of doing BDD wrong pt 1 1.md",
-    "Resources/Coding/Beyond Developer 1.md",
-    "Resources/Coding/Beyond Developer.md",
-    "Resources/Coding/Pushing Through Friction.md"
+    "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
+    "Notes/Microservices/Nic Jackson Videos/Nic Jackson Microservices.md",
+    "Notes/Microservices/Nic Jackson Videos/Microservices.md",
+    "Notes/Microservices/Microservices NJ EP1 notes.md",
+    "Notes/Microservices/Microservices.md",
+    "Notes/Microservices/Microservices EP1 notes.md",
+    "Notes/Microservices/Untitled.md",
+    "Resources/Coding/Microservices by Nic Jackson.md",
+    "Resources/Coding/BDD is not about Testing.md",
+    "Resources/Coding/10 yrs of doing BDD wrong part 2.md"
   ]
 }
