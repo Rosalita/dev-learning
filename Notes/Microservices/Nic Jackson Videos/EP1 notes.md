@@ -1,4 +1,7 @@
 ## EP 1
+
+[[Microservices by Nic Jackson]]
+
 Looks like his setup is not too different to my own. I like how he uses VSCode liveshare.
 
 `fmt.Fprintf()` can be used to print directly to a http.ResponseWriter.

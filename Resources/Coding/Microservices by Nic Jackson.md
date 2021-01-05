@@ -9,9 +9,9 @@ tags
 
 Found a good selection of recent videos on Youtube around microservices. I want to watch them all.
 
-### EP1 introduction to Microservices
-
 [EP1 Introduction to Microservices](https://www.youtube.com/watch?v=VzBGi_n65iU)
+
+[EP2 Building Microservices with Go](https://www.youtube.com/watch?v=hodOppKJm5Y)
 
 
 

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
+            "file": "Notes/Microservices/Nic Jackson Videos/EP3 notes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
+                "file": "Notes/Microservices/Nic Jackson Videos/EP3 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Notes/Microservices/Nic Jackson Videos/EP2 notes 1.md",
+    "Notes/Microservices/Nic Jackson Videos/EP2 notes.md",
     "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
-    "Notes/Microservices/Nic Jackson Videos/Nic Jackson Microservices.md",
-    "Notes/Microservices/Nic Jackson Videos/Microservices.md",
-    "Notes/Microservices/Microservices NJ EP1 notes.md",
-    "Notes/Microservices/Microservices.md",
-    "Notes/Microservices/Microservices EP1 notes.md",
-    "Notes/Microservices/Untitled.md",
     "Resources/Coding/Microservices by Nic Jackson.md",
-    "Resources/Coding/BDD is not about Testing.md",
-    "Resources/Coding/10 yrs of doing BDD wrong part 2.md"
+    "Notes/Microservices/Nic Jackson Videos/EP1 notes 1.md",
+    "Notes/Microservices/Nic Jackson Videos/Nic Jackson Microservices.md",
+    "Resources/Coding/Psychology of Code Readability.md",
+    "Resources/Coding/Pushing Through Friction.md",
+    "Notes/Microservices/Nic Jackson Videos/Microservices.md",
+    "Notes/Microservices/Microservices NJ EP1 notes.md"
   ]
 }
