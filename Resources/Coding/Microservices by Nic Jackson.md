@@ -13,5 +13,6 @@ Found a good selection of recent videos on Youtube around microservices. I want 
 
 [EP2 Building Microservices with Go](https://www.youtube.com/watch?v=hodOppKJm5Y)
 
+[EP3 Building Microservices with Go](https://www.youtube.com/watch?v=eBeqtmrvVpg&t=612s)
 
 

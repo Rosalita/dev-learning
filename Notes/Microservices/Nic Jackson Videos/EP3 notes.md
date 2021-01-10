@@ -39,3 +39,18 @@ var productList = []*Product{
 	}
 }
 `
+
+In a real world multi-tier application it much easier to explain the layers involved in a microservices application.
+- product api
+- presentation layers
+- backend services
+
+## Product API
+- Needs the ability to return some coffee
+- This API will be consumed by the frontend and the mobile app.
+
+encoding/json in standard library allows marshalling between struct and json.
+
+Abstract the logic of where the data is coming from, from the rest of the code.
+
+
