@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Microservices/Nic Jackson Videos/EP3 notes.md",
+            "file": "Resources/Coding/Normalization of Deviance.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Microservices/Nic Jackson Videos/EP3 notes.md",
+                "file": "Resources/Coding/Normalization of Deviance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Resources/Coding/Normalization of Deviance.md",
+    "Resources/Coding/Microservices by Nic Jackson.md",
+    "Notes/Microservices/Nic Jackson Videos/EP3 notes.md",
     "Notes/Microservices/Nic Jackson Videos/EP2 notes 1.md",
     "Notes/Microservices/Nic Jackson Videos/EP2 notes.md",
     "Notes/Microservices/Nic Jackson Videos/EP1 notes.md",
-    "Resources/Coding/Microservices by Nic Jackson.md",
     "Notes/Microservices/Nic Jackson Videos/EP1 notes 1.md",
     "Notes/Microservices/Nic Jackson Videos/Nic Jackson Microservices.md",
     "Resources/Coding/Psychology of Code Readability.md",
-    "Resources/Coding/Pushing Through Friction.md",
-    "Notes/Microservices/Nic Jackson Videos/Microservices.md",
-    "Notes/Microservices/Microservices NJ EP1 notes.md"
+    "Resources/Coding/Pushing Through Friction.md"
   ]
 }
